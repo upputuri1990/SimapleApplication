@@ -6,6 +6,11 @@ public class Addition {
 		int c=a + b;
 		System.out.println("Addition of two numbers is"+c);
 	}
+	public void substraction()
+	{
+		int d=a - b;
+		System.out.println("substraction of two numbers is"+d);
+	}
 	
 	
 
